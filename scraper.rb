@@ -85,7 +85,7 @@ def scrape_person(mp_name, url, which_party)
      division: electorate_name,
      state: 'SA',
      start_date: elected_date,
-     election_type: ' ',
+     election_type: '',
      end_date: '', 
      reason_left: 'still_in_office',
      party: which_party,
